@@ -20,9 +20,9 @@ The script first detects objects in an image using a MediaPipe object detection 
 
 This is the original image before segmentation:
 
-![Original Image](images\000000002299.jpg)
+![Original Image](images/000000002299.jpg)
 
 
 This is the image after segmentation, with the selection of person0 as the selection:
 
-![Person](segmented_images\person.jpg)
+![Person](segmented_images/person.jpg)
